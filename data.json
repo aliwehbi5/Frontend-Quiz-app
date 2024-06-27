@@ -1,0 +1,890 @@
+{
+  "html": {
+    "question1": {
+      "qu": "What does the HTML acronym stand for?",
+      "id": 1,
+      "answers": {
+        "answer1": {
+          "text": "Hyperlinks and Text Markup Language",
+          "status": false
+        },
+        "answer2": {
+          "text": "Hypertext Markup Language",
+          "status": true
+        },
+        "answer3": {
+          "text": "Home Tool Markup Language",
+          "status": false
+        },
+        "answer4": {
+          "text": "High-level Text Markup Language",
+          "status": false
+        }
+      }
+    },
+    "question2": {
+      "qu": "Which tag is used to define a hyperlink in HTML?",
+      "id": 2,
+      "answers": {
+        "answer1": {
+          "text": "<link>",
+          "status": false
+        },
+        "answer2": {
+          "text": "<a>",
+          "status": true
+        },
+        "answer3": {
+          "text": "<h1>",
+          "status": false
+        },
+        "answer4": {
+          "text": "<div>",
+          "status": false
+        }
+      }
+    },
+    "question3": {
+      "qu": "Which attribute is used to specify the URL of an external CSS file?",
+      "id": 3,
+      "answers": {
+        "answer1": {
+          "text": "class",
+          "status": false
+        },
+        "answer2": {
+          "text": "src",
+          "status": false
+        },
+        "answer3": {
+          "text": "href",
+          "status": true
+        },
+        "answer4": {
+          "text": "style",
+          "status": false
+        }
+      }
+    },
+    "question4": {
+      "qu": "Which tag is used to define the header of a table in HTML?",
+      "id": 4,
+      "answers": {
+        "answer1": {
+          "text": "<tr>",
+          "status": false
+        },
+        "answer2": {
+          "text": "<th>",
+          "status": false
+        },
+        "answer3": {
+          "text": "<table>",
+          "status": false
+        },
+        "answer4": {
+          "text": "<thead>",
+          "status": true
+        }
+      }
+    },
+    "question5": {
+      "qu": "Which attribute is used to specify an image source in HTML?",
+      "id": 5,
+      "answers": {
+        "answer1": {
+          "text": "src",
+          "status": true
+        },
+        "answer2": {
+          "text": "href",
+          "status": false
+        },
+        "answer3": {
+          "text": "alt",
+          "status": false
+        },
+        "answer4": {
+          "text": "img",
+          "status": false
+        }
+      }
+    },
+    "question6": {
+      "qu": "Which tag is used to define an unordered list in HTML?",
+      "id": 6,
+      "answers": {
+        "answer1": {
+          "text": "<ol>",
+          "status": false
+        },
+        "answer2": {
+          "text": "<li>",
+          "status": false
+        },
+        "answer3": {
+          "text": "<ul>",
+          "status": true
+        },
+        "answer4": {
+          "text": "<list>",
+          "status": false
+        }
+      }
+    },
+    "question7": {
+      "qu": "Which attribute is used to specify an alternative text for an image in HTML?",
+      "id": 7,
+      "answers": {
+        "answer1": {
+          "text": "alt",
+          "status": true
+        },
+        "answer2": {
+          "text": "src",
+          "status": false
+        },
+        "answer3": {
+          "text": "href",
+          "status": false
+        },
+        "answer4": {
+          "text": "img",
+          "status": false
+        }
+      }
+    },
+    "question8": {
+      "qu": "Which tag is used to define a line break in HTML?",
+      "id": 8,
+      "answers": {
+        "answer1": {
+          "text": "<break>",
+          "status": false
+        },
+        "answer2": {
+          "text": "<hr>",
+          "status": false
+        },
+        "answer3": {
+          "text": "<br>",
+          "status": true
+        },
+        "answer4": {
+          "text": "<lb>",
+          "status": false
+        }
+      }
+    },
+    "question9": {
+      "qu": "Which element is used to define a paragraph in HTML?",
+      "id": 9,
+      "answers": {
+        "answer1": {
+          "text": "<div>",
+          "status": false
+        },
+        "answer2": {
+          "text": "<span>",
+          "status": false
+        },
+        "answer3": {
+          "text": "<paragraph>",
+          "status": false
+        },
+        "answer4": {
+          "text": "<p>",
+          "status": true
+        }
+      }
+    },
+    "question10": {
+      "qu": "Which attribute is used to specify a target for a hyperlink in HTML?",
+      "id": 10,
+      "answers": {
+        "answer1": {
+          "text": "id",
+          "status": false
+        },
+        "answer2": {
+          "text": "class",
+          "status": false
+        },
+        "answer3": {
+          "text": "target",
+          "status": true
+        },
+        "answer4": {
+          "text": "href",
+          "status": false
+        }
+      }
+    }
+  },
+  "css": {
+    "question1": {
+      "qu": "What does CSS stand for?",
+      "id": 1,
+      "answers": {
+        "answer1": {
+          "text": "Cascading Style Sheets",
+          "status": true
+        },
+        "answer2": {
+          "text": "Creative Style Sheets",
+          "status": false
+        },
+        "answer3": {
+          "text": "Computer Style Sheets",
+          "status": false
+        },
+        "answer4": {
+          "text": "Customized Style Sheets",
+          "status": false
+        }
+      }
+    },
+    "question2": {
+      "qu": "Which property is used to change the text color?",
+      "id": 2,
+      "answers": {
+        "answer1": {
+          "text": "text-color",
+          "status": false
+        },
+        "answer2": {
+          "text": "color",
+          "status": true
+        },
+        "answer3": {
+          "text": "text-style",
+          "status": false
+        },
+        "answer4": {
+          "text": "font-color",
+          "status": false
+        }
+      }
+    },
+    "question3": {
+      "qu": "Which property is used to change the background color of an element in CSS?",
+      "id": 3,
+      "answers": {
+        "answer1": {
+          "text": "background-color",
+          "status": true
+        },
+        "answer2": {
+          "text": "bgcolor",
+          "status": false
+        },
+        "answer3": {
+          "text": "background",
+          "status": false
+        },
+        "answer4": {
+          "text": "bg-color",
+          "status": false
+        }
+      }
+    },
+    "question4": {
+      "qu": "Which property is used to change the font size in CSS?",
+      "id": 4,
+      "answers": {
+        "answer1": {
+          "text": "text-size",
+          "status": false
+        },
+        "answer2": {
+          "text": "font-style",
+          "status": false
+        },
+        "answer3": {
+          "text": "font-size",
+          "status": true
+        },
+        "answer4": {
+          "text": "text-style",
+          "status": false
+        }
+      }
+    },
+    "question5": {
+      "qu": "Which property is used to set the spacing between lines of text in CSS?",
+      "id": 5,
+      "answers": {
+        "answer1": {
+          "text": "line-height",
+          "status": false
+        },
+        "answer2": {
+          "text": "text-spacing",
+          "status": false
+        },
+        "answer3": {
+          "text": "text-line",
+          "status": false
+        },
+        "answer4": {
+          "text": "line-spacing",
+          "status": true
+        }
+      }
+    },
+    "question6": {
+      "qu": "Which property is used to align text to the right in CSS?",
+      "id": 6,
+      "answers": {
+        "answer1": {
+          "text": "text-align",
+          "status": true
+        },
+        "answer2": {
+          "text": "align-text",
+          "status": false
+        },
+        "answer3": {
+          "text": "text-right",
+          "status": false
+        },
+        "answer4": {
+          "text": "align-right",
+          "status": false
+        }
+      }
+    },
+    "question7": {
+      "qu": "Which property is used to add a border around an element in CSS?",
+      "id": 7,
+      "answers": {
+        "answer1": {
+          "text": "border-style",
+          "status": false
+        },
+        "answer2": {
+          "text": "border",
+          "status": true
+        },
+        "answer3": {
+          "text": "border-width",
+          "status": false
+        },
+        "answer4": {
+          "text": "border-color",
+          "status": false
+        }
+      }
+    },
+    "question8": {
+      "qu": "Which property is used to control the opacity of an element in CSS?",
+      "id": 8,
+      "answers": {
+        "answer1": {
+          "text": "transparent",
+          "status": false
+        },
+        "answer2": {
+          "text": "visibility",
+          "status": false
+        },
+        "answer3": {
+          "text": "opacity",
+          "status": true
+        },
+        "answer4": {
+          "text": "display",
+          "status": false
+        }
+      }
+    },
+    "question9": {
+      "qu": "Which property is used to add a shadow effect to an element in CSS?",
+      "id": 9,
+      "answers": {
+        "answer1": {
+          "text": "text-shadow",
+          "status": false
+        },
+        "answer2": {
+          "text": "box-shadow",
+          "status": true
+        },
+        "answer3": {
+          "text": "shadow-effect",
+          "status": false
+        },
+        "answer4": {
+          "text": "element-shadow",
+          "status": false
+        }
+      }
+    },
+    "question10": {
+      "qu": "Which property is used to specify the type of list item marker in CSS?",
+      "id": 10,
+      "answers": {
+        "answer1": {
+          "text": "list-style",
+          "status": true
+        },
+        "answer2": {
+          "text": "list-type",
+          "status": false
+        },
+        "answer3": {
+          "text": "marker-style",
+          "status": false
+        },
+        "answer4": {
+          "text": "marker-type",
+          "status": false
+        }
+      }
+    }
+  },
+  "js": {
+    "question1": {
+      "qu": "What is JavaScript?",
+      "id": 1,
+      "answers": {
+        "answer1": {
+          "text": "A programming language used for styling web pages",
+          "status": false
+        },
+        "answer2": {
+          "text": "A scripting language that allows you to create interactive elements on web pages",
+          "status": true
+        },
+        "answer3": {
+          "text": "A markup language used for structuring the content of web pages",
+          "status": false
+        },
+        "answer4": {
+          "text": "A database management system for storing web page data",
+          "status": false
+        }
+      }
+    },
+    "question2": {
+      "qu": "Which keyword is used to declare a variable in JavaScript?",
+      "id": 2,
+      "answers": {
+        "answer1": {
+          "text": "const",
+          "status": false
+        },
+        "answer2": {
+          "text": "let",
+          "status": false
+        },
+        "answer3": {
+          "text": "var",
+          "status": true
+        },
+        "answer4": {
+          "text": "variable",
+          "status": false
+        }
+      }
+    },
+    "question3": {
+      "qu": "What is the output of the following code?\n\nconsole.log(2 + '2');",
+      "id": 3,
+      "answers": {
+        "answer1": {
+          "text": "4",
+          "status": false
+        },
+        "answer2": {
+          "text": "22",
+          "status": true
+        },
+        "answer3": {
+          "text": "NaN",
+          "status": false
+        },
+        "answer4": {
+          "text": "TypeError",
+          "status": false
+        }
+      }
+    },
+    "question4": {
+      "qu": "Which of the following is a JavaScript framework?",
+      "id": 4,
+      "answers": {
+        "answer1": {
+          "text": "React",
+          "status": true
+        },
+        "answer2": {
+          "text": "jQuery",
+          "status": false
+        },
+        "answer3": {
+          "text": "Bootstrap",
+          "status": false
+        },
+        "answer4": {
+          "text": "Angular",
+          "status": true
+        }
+      }
+    },
+    "question5": {
+      "qu": "What is the purpose of the 'typeof' operator in JavaScript?",
+      "id": 5,
+      "answers": {
+        "answer1": {
+          "text": "It checks if a variable is defined",
+          "status": false
+        },
+        "answer2": {
+          "text": "It returns the type of a value",
+          "status": true
+        },
+        "answer3": {
+          "text": "It converts a value to a string",
+          "status": false
+        },
+        "answer4": {
+          "text": "It performs mathematical operations",
+          "status": false
+        }
+      }
+    },
+    "question6": {
+      "qu": "Which method is used to add an element to the end of an array in JavaScript?",
+      "id": 6,
+      "answers": {
+        "answer1": {
+          "text": "push()",
+          "status": true
+        },
+        "answer2": {
+          "text": "pop()",
+          "status": false
+        },
+        "answer3": {
+          "text": "shift()",
+          "status": false
+        },
+        "answer4": {
+          "text": "unshift()",
+          "status": false
+        }
+      }
+    },
+    "question7": {
+      "qu": "What does 'NaN' stand for in JavaScript?",
+      "id": 7,
+      "answers": {
+        "answer1": {
+          "text": "Not a Null",
+          "status": false
+        },
+        "answer2": {
+          "text": "Not a Number",
+          "status": true
+        },
+        "answer3": {
+          "text": "No Available Name",
+          "status": false
+        },
+        "answer4": {
+          "text": "Null and Negative",
+          "status": false
+        }
+      }
+    },
+    "question8": {
+      "qu": "Which method is used to remove the last element from an array in JavaScript?",
+      "id": 8,
+      "answers": {
+        "answer1": {
+          "text": "pop()",
+          "status": true
+        },
+        "answer2": {
+          "text": "push()",
+          "status": false
+        },
+        "answer3": {
+          "text": "shift()",
+          "status": false
+        },
+        "answer4": {
+          "text": "unshift()",
+          "status": false
+        }
+      }
+    },
+    "question9": {
+      "qu": "What is the purpose of the 'addEventListener' method in JavaScript?",
+      "id": 9,
+      "answers": {
+        "answer1": {
+          "text": "It adds a new element to the DOM",
+          "status": false
+        },
+        "answer2": {
+          "text": "It creates a new event object",
+          "status": false
+        },
+        "answer3": {
+          "text": "It attaches an event handler to an element",
+          "status": true
+        },
+        "answer4": {
+          "text": "It removes an event listener",
+          "status": false
+        }
+      }
+    },
+    "question10": {
+      "qu": "What is the result of the following expression?\n\ntypeof null",
+      "id": 10,
+      "answers": {
+        "answer1": {
+          "text": "null",
+          "status": false
+        },
+        "answer2": {
+          "text": "undefined",
+          "status": false
+        },
+        "answer3": {
+          "text": "object",
+          "status": true
+        },
+        "answer4": {
+          "text": "string",
+          "status": false
+        }
+      }
+    }
+  },
+  "access": {
+    "question1": {
+      "qu": "What does WCAG stand for in the context of web accessibility?",
+      "id": 1,
+      "answers": {
+        "answer1": {
+          "text": "Web Content Accessibility Guidelines",
+          "status": true
+        },
+        "answer2": {
+          "text": "Website Compatibility Analysis Group",
+          "status": false
+        },
+        "answer3": {
+          "text": "Worldwide Consortium for Accessible Gateways",
+          "status": false
+        },
+        "answer4": {
+          "text": "Web Compatibility Assessment Group",
+          "status": false
+        }
+      }
+    },
+    "question2": {
+      "qu": "Which HTML element is used to provide alternative text for an image?",
+      "id": 2,
+      "answers": {
+        "answer1": {
+          "text": "alt",
+          "status": false
+        },
+        "answer2": {
+          "text": "caption",
+          "status": false
+        },
+        "answer3": {
+          "text": "description",
+          "status": false
+        },
+        "answer4": {
+          "text": "img",
+          "status": true
+        }
+      }
+    },
+    "question3": {
+      "qu": "Which color combination is generally considered accessible for text readability?",
+      "id": 3,
+      "answers": {
+        "answer1": {
+          "text": "Black text on a white background",
+          "status": true
+        },
+        "answer2": {
+          "text": "Red text on a green background",
+          "status": false
+        },
+        "answer3": {
+          "text": "Yellow text on a blue background",
+          "status": false
+        },
+        "answer4": {
+          "text": "Orange text on a pink background",
+          "status": false
+        }
+      }
+    },
+    "question4": {
+      "qu": "What is the purpose of ARIA attributes in web accessibility?",
+      "id": 4,
+      "answers": {
+        "answer1": {
+          "text": "To define the layout and styling of a web page",
+          "status": false
+        },
+        "answer2": {
+          "text": "To provide additional information about the structure and functionality of web elements",
+          "status": true
+        },
+        "answer3": {
+          "text": "To block access to certain web pages for security reasons",
+          "status": false
+        },
+        "answer4": {
+          "text": "To optimize the performance of web applications",
+          "status": false
+        }
+      }
+    },
+    "question5": {
+      "qu": "Which HTML element is used to create a logical grouping of links?",
+      "id": 5,
+      "answers": {
+        "answer1": {
+          "text": "<nav>",
+          "status": true
+        },
+        "answer2": {
+          "text": "<ul>",
+          "status": false
+        },
+        "answer3": {
+          "text": "<div>",
+          "status": false
+        },
+        "answer4": {
+          "text": "<span>",
+          "status": false
+        }
+      }
+    },
+    "question6": {
+      "qu": "What is the recommended minimum contrast ratio for text and background colors to meet accessibility guidelines?",
+      "id": 6,
+      "answers": {
+        "answer1": {
+          "text": "2:1",
+          "status": false
+        },
+        "answer2": {
+          "text": "3:1",
+          "status": false
+        },
+        "answer3": {
+          "text": "4.5:1",
+          "status": true
+        },
+        "answer4": {
+          "text": "7:1",
+          "status": false
+        }
+      }
+    },
+    "question7": {
+      "qu": "Which HTML attribute is used to provide an accessible name for form input elements?",
+      "id": 7,
+      "answers": {
+        "answer1": {
+          "text": "placeholder",
+          "status": false
+        },
+        "answer2": {
+          "text": "label",
+          "status": false
+        },
+        "answer3": {
+          "text": "alt",
+          "status": false
+        },
+        "answer4": {
+          "text": "aria-label",
+          "status": true
+        }
+      }
+    },
+    "question8": {
+      "qu": "What is the purpose of skip links in web accessibility?",
+      "id": 8,
+      "answers": {
+        "answer1": {
+          "text": "To navigate to the next page",
+          "status": false
+        },
+        "answer2": {
+          "text": "To skip over repetitive content and directly access the main content",
+          "status": true
+        },
+        "answer3": {
+          "text": "To create a link to external websites",
+          "status": false
+        },
+        "answer4": {
+          "text": "To bookmark a specific section on a page",
+          "status": false
+        }
+      }
+    },
+    "question9": {
+      "qu": "What is the purpose of alternative text in images for web accessibility?",
+      "id": 9,
+      "answers": {
+        "answer1": {
+          "text": "To provide a description of the image for visually impaired users",
+          "status": true
+        },
+        "answer2": {
+          "text": "To enhance the visual appearance of the image",
+          "status": false
+        },
+        "answer3": {
+          "text": "To prevent the image from being downloaded",
+          "status": false
+        },
+        "answer4": {
+          "text": "To improve the loading speed of the webpage",
+          "status": false
+        }
+      }
+    },
+    "question10": {
+      "qu": "Which CSS property is used to hide an element from screen readers but keep it visible on the page?",
+      "id": 10,
+      "answers": {
+        "answer1": {
+          "text": "display: none;",
+          "status": false
+        },
+        "answer2": {
+          "text": "visibility: hidden;",
+          "status": false
+        },
+        "answer3": {
+          "text": "opacity: 0;",
+          "status": false
+        },
+        "answer4": {
+          "text": "position: absolute; left: -9999px;",
+          "status": true
+        }
+      }
+    }
+  }
+}
