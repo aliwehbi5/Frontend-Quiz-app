@@ -308,7 +308,6 @@ h1.question {
 
 .progress span {
   position: absolute;
-  width: calc(100% - 10px);
   height: 10px;
   background-color: var(--violet-color);
   border-radius: 15px;
